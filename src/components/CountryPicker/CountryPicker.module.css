@@ -1,4 +1,9 @@
 .formControl {
 	width: 30%;
+	margin: auto !important;
 	margin-bottom: 30px !important;
+}
+
+.selector {
+	width: 20rem;
 }
